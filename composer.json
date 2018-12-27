@@ -15,9 +15,6 @@
         "symfony/framework-bundle":  ">=2.0.0",
         "twig/twig":                 ">=1.21.0"
     },
-    "replace": {
-        "makerlabs/PagerBundle": "dev-master"
-    },
     "autoload": {
         "psr-0": { "MakerLabs\\Bundle\\PagerBundle": "" }
     },
