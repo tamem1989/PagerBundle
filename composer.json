@@ -2,7 +2,7 @@
     "name": "symfony-twig/pager-bundle",
     "type": "symfony-bundle",
     "description": "Paginator Bundle for Symfony >=2 and twig >=1.21.",
-    "keywords": ["pager", "symfony>=2", "twig1.21"],
+    "keywords": ["pager", "symfony2", "symfony3", "twig1.21"],
     "homepage": "https://github.com/makerlabs/PagerBundle",
     "license": "MIT",
     "authors": [
