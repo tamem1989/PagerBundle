@@ -1,5 +1,5 @@
 {
-    "name": "makerlabs/pager-bundle",
+    "name": "symfony/pager-bundle",
     "type": "symfony-bundle",
     "description": "Paginator Bundle for Symfony3.",
     "keywords": ["pager", "symfony >=2", "twig 1.21"],
