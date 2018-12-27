@@ -16,7 +16,7 @@
         "twig/twig":                 ">=1.9.1,<2.0-dev"
     },
     "replace": {
-        "makerlabs/PagerBundle": "1.0.0"
+        "makerlabs/PagerBundle": "1.0.1"
     },
     "autoload": {
         "psr-0": { "MakerLabs\\Bundle\\PagerBundle": "" }
