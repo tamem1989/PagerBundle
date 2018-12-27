@@ -1,7 +1,7 @@
 {
     "name": "symfony/pager-bundle",
     "type": "symfony-bundle",
-    "description": "Paginator Bundle for Symfony3.",
+    "description": "Paginator Bundle for Symfony >=2 and twig >=1.21.",
     "keywords": ["pager", "symfony >=2", "twig 1.21"],
     "homepage": "https://github.com/makerlabs/PagerBundle",
     "license": "MIT",
@@ -16,7 +16,7 @@
         "twig/twig":                 ">=1.21.0"
     },
     "replace": {
-        "makerlabs/PagerBundle": "1.0.1"
+        "makerlabs/PagerBundle": "dev-master"
     },
     "autoload": {
         "psr-0": { "MakerLabs\\Bundle\\PagerBundle": "" }
