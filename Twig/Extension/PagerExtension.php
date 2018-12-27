@@ -20,7 +20,7 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
  *
  * @author Marcin Butlak <contact@maker-labs.com>
  */
-class PagerExtension extends \Twig_Extension
+class PagerExtension extends \Twig_Extension implements \Twig_Extension_InitRuntimeInterface
 {
     /**
      *
